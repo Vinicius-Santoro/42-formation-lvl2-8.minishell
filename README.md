@@ -4,11 +4,14 @@
 
 - This project is about creating a simple shell.
 
-<!-- ## _The project looked like this:_
+## _Useful links_
 
-![so_long](https://user-images.githubusercontent.com/83036509/150965119-a96d5590-3971-43d0-959f-ee0d0f237d9e.gif) -->
+- https://www.geeksforgeeks.org/making-linux-shell-c/
+- https://www.notion.so/Minishell-Materials-7bbd45a806e04395ab578ca3f805806c
+- https://www.cs.purdue.edu/homes/grr/SystemsProgrammingBook/Book/Chapter5-WritingYourOwnShell.pdf
 
-## _Como utilizar_
+
+## _How to use_
 
 - Clone the repository:
 ```
